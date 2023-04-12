@@ -1,5 +1,7 @@
 # Supply Chain Management System
 
+A supply chain system which is transparent and lets clients make bids which is secret until all the bidders have made their mid. After the bids are submitted the system automatically distributes the items and moves ahead with the process.
+
 ### Follow the below mentioned steps and commands to run the Supply Chain Management System:
 
 Migrate to the directory ```/src/backend/contracts```. 
